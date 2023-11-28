@@ -1,0 +1,78 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "firstName": "mawe",
+      "lastName": "mecky",
+      "email": "omy@gmail.com",
+      "mobile": "0678907689",
+      "salary": "40000"
+    },
+    {
+      "id": 4,
+      "firstName": "adel",
+      "lastName": "adil",
+      "email": "ade@mail.com",
+      "mobile": "077765342",
+      "salary": "20000"
+    },
+    {
+      "id": 6,
+      "firstName": "asha",
+      "lastName": "kitalu",
+      "email": "kitalu@mail.com",
+      "mobile": "0876643411",
+      "salary": "4566500"
+    },
+    {
+      "id": 7,
+      "firstName": "juma",
+      "lastName": "ali",
+      "email": "juma@gmail.com",
+      "mobile": "087654432",
+      "salary": "200000"
+    },
+    {
+      "id": 8,
+      "firstName": "shaban",
+      "lastName": "ali",
+      "email": "sheby:gmail.com",
+      "mobile": "23456789",
+      "salary": "400000"
+    },
+    {
+      "id": 9,
+      "firstName": "meck",
+      "lastName": "mjumbe",
+      "email": "meck@gmail.com",
+      "mobile": "23456789",
+      "salary": "32222"
+    }
+  ],
+  "signupUsers": [
+    {
+      "fullname": "makame mawe",
+      "mobile": "06784543232",
+      "email": "mawe@gmail.com",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "fullname": "juma",
+      "mobile": "876543254",
+      "email": "juma@gmail.com",
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "fullname": "ali ",
+      "mobile": "09876543456",
+      "email": "ali@gmail.com",
+      "password": "123456",
+      "id": 3
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
